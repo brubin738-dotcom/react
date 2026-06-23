@@ -1355,7 +1355,7 @@ const styles = {
     border: "1px solid #dce6ee",
     borderRadius: "8px",
     padding: "14px 16px",
-    display: "flex",
+    display:  "flex",
     justifyContent: "space-between",
     gap: "12px",
     alignItems: "center",
