@@ -1,0 +1,11 @@
+{
+  "name": "rubin-intership-root",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "npm --prefix \"job_protal_with_search_and_fiter/cd job_protal_with_search_and_fiter\" run dev",
+    "build": "npm --prefix \"job_protal_with_search_and_fiter/cd job_protal_with_search_and_fiter\" run build",
+    "lint": "npm --prefix \"job_protal_with_search_and_fiter/cd job_protal_with_search_and_fiter\" run lint",
+    "preview": "npm --prefix \"job_protal_with_search_and_fiter/cd job_protal_with_search_and_fiter\" run preview"
+  }
+}
