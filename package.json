@@ -7,5 +7,8 @@
     "build": "npm --prefix \"job_protal_with_search_and_fiter/cd job_protal_with_search_and_fiter\" run build",
     "lint": "npm --prefix \"job_protal_with_search_and_fiter/cd job_protal_with_search_and_fiter\" run lint",
     "preview": "npm --prefix \"job_protal_with_search_and_fiter/cd job_protal_with_search_and_fiter\" run preview"
+  },
+  "devDependencies": {
+    "vite": "^8.1.0"
   }
 }
